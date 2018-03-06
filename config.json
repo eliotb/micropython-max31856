@@ -1,0 +1,10 @@
+{
+    "mqtt": {
+        "server": "mqtt.local",
+        "user": "user",
+        "password": "password",
+        "keepalive": 60
+    },
+    "tc_type": "K",
+    "interval_seconds": 10
+}
